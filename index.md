@@ -14,20 +14,17 @@ Experienced with: Visual Studio Code, Linux command line
 Familiar with: Vim, JetBrains IntelliJ, Visual Studio, Git
 
 ## Personal Projects
-### Discord Bot
-https://github.com/jpdown/Slowmander
+### [Discord Bot](https://github.com/jpdown/Slowmander)
 *2020-Present*
 
 Moderation bot designed to allow easier moderation and prevent spam. Deployed on a server with 8100+ members. Created using TypeScript and Node.js, utilizing Discord and Twitch APIs.
 
-### Clone Hero Lyric Adder
-https://github.com/jpdown/clone-hero-lyric-adder
+### [Clone Hero Lyric Adder](https://github.com/jpdown/clone-hero-lyric-adder)
 *2019*
 
 Command line tool that allowed placing lyrics into Clone Hero charts. Parsed .chart files and text files with lyrics to output new .chart files. Written in Python.
 
-### Twitch Mod Log
-https://github.com/jpdown/twitch-mod-log
+### [Twitch Mod Log](https://github.com/jpdown/twitch-mod-log)
 *2018*
 
 Bot that listens to Twitch moderation events and posts formatted messages in Discord. Deployed for 12 Twitch channels. Created with Python, using WebSockets (Twitch) and WebHooks (Discord).
