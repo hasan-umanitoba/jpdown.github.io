@@ -25,8 +25,11 @@ We are using Markdown to write our resume. Markdown offers many benefits over a 
 
 ### Hosting on GitHub
 
-#### Why?
-We are using GitHub Pages as our hosting for this guide. We use GitHub and Git as it provides many benefits for writing. Git is a decentralized version control, which means many people can work on the same project, and all the work can be merged together. Git also does not require an active internet connection to be used, only to push to servers like GitHub. Since it is version control, it also means you will have a history of all changes made. GitHub Pages is free to use and uses Jekyll in the background. Jekyll takes your Markdown files and generates a static website, consisting of portable HTML, CSS, and JS files. These files can then be deployed on any web server. Thankfully, GitHub Pages handles this for us.
+#### Why GitHub?
+We are using GitHub Pages as our hosting for this guide. We use GitHub and Git as it provides many benefits for writing. Git is a decentralized version control, which means many people can work on the same project, and all the work can be merged together. Git also does not require an active internet connection to be used, only to push changes to servers like GitHub. Since it is version control, it also means you will have a history of all changes made.
+
+#### Why Github Pages?
+GitHub Pages is free to use and uses Jekyll in the background. Jekyll takes your Markdown files and generates a static website, consisting of portable HTML, CSS, and JS files. These files can then be deployed on any web server. This is beneficial as it means you can script the deployment of changes, allowing for smaller edits to be made more frequently. Thankfully, GitHub Pages handles this for us.
 
 #### Steps
 1. Go to the [GitHub homepage](https://github.com)
@@ -90,14 +93,8 @@ GitHub has a [cheat sheet](https://training.github.com/downloads/github-git-chea
 
 ## Authors and Acknowledgements
 
-### README template
-* Stewart Wilcox
-
-### Peer Editors
-* Abu Yasin Sabik
-* Abdullah Al Noman
-* Muhammad Hasan Saleem
-* Long Vu
+Thank you to Stewart Wilcox for providing the README template.
+Thank you to Abu Yasin Sabik, Abdullah Al Noman, Muhammad Hasan Saleem, and Long Vu for peer editing.
 
 ## FAQs
 
@@ -110,6 +107,6 @@ If your resume is not showing up, ensure all of the following are true:
 * Is the name of your Markdown file `index.md`?
 * Is your `index.md` located in the root of the repository, i.e., not in any folders?
 * In the respository settings, in Pages, is the branch set to main?
-* Does the GitHub Pages settings page say in a green box "Your site is published at `https://yourusername.github.io/`" near the top of the page?
+* Does the GitHub Pages settings page say in a green box "Your site is published at https://yourusername.github.io/" near the top of the page?
 
 [andrewetter]: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
